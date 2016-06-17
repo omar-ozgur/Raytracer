@@ -1,0 +1,13 @@
+Name: Omar Ozgur
+ID: 704465898
+Class: CS174A
+
+*** Project 3 README ***
+
+After adding the necessary code, all test images appeared to be created correctly. The output files
+"testAmbient.ppm", "testBackground.ppm", "testBehind.ppm", "testDiffuse.ppm", "testIllum.ppm", 
+"testIntersection.ppm", "testParsing.ppm", "testReflection.ppm", "testSample.ppm", "testShadow.ppm",
+and "testSpecular.ppm" compiled correctly, and looked nearly identical to the provided sample images.
+
+The code can be compiled with the command "g++ raytrace.cpp -o raytrace", or by importing the files
+into an IDE such as XCode.
